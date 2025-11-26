@@ -13,3 +13,8 @@ A small and easy C program that generates random, usable usernames by combining 
 ```bash
 gcc username_generator.c -o username_generator
 ./username_generator
+ output 
+PS C:\Users\CUTM\Desktop\subhankar> cd "c:\Users\CUTM\Desktop\subhankar\" ; if ($?) { gcc tempCodeRunnerFile.c -o tempCodeRunnerFile } ; if ($?) { .\tempCodeRunnerFile }
+
+≡ƒö╣ Your Random Username is: SwiftStorm86
+PS C:\Users\CUTM\Desktop\subhankar>
